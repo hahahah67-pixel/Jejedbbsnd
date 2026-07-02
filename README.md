@@ -76,3 +76,6 @@ No — if PenguinPlay store doesn't find one, it downloads and sets one up autom
 
 **What Lisence is Penguin Play store Liscensed under?
 The Penguin Play Store is lisenced under is - APGL 3.0 public lisence, for information regarding this lisence and the law, please vist dmca.com
+
+**How do I run the already-installed application though the terminal without using the desktop?
+To run the application though the terminal instead of the desktop run - ~/.playstore-emu/launch.sh
