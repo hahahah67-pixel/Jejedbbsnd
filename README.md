@@ -9,6 +9,7 @@
 </div>
 
 ---
+# DISCLAIMER: PLEASE READ!
 
 the PenguinPlay store isn't a hack of ChromeOS, and it doesn't touch ARC++/ARCVM. It automates Google's own official, publicly documented developer tools — the Android SDK Command-line Tools, `sdkmanager`, `avdmanager`, the Android Emulator, and `adb` — so using them feels as close as possible to having a real Play Store app pinned to your shelf.
 
