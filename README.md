@@ -19,7 +19,7 @@ Click the icon once. First time, it quietly sets up a real Android device in the
 Open a Linux (Crostini) terminal on your Chromebook and run:
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/hahahah67-pixel/penguin-play-store/main/playstore-emu-setup.sh)
+bash <(curl -sL https://raw.githubusercontent.com/hahahah67-pixel/penguin-play-store/main/penguinplay-store-setup.sh)
 ```
 
 That's it. It installs itself, creates a **Google Play Store** icon in your Chromebook's launcher, and offers to open it right away.
