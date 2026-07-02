@@ -73,3 +73,6 @@ If Crostini (Linux) works on it at all, the PenguinPlay store should too. How *f
 
 **Do I need to already have Android Studio or the SDK installed?**
 No — if PenguinPlay store doesn't find one, it downloads and sets one up automatically. If you already have one, it's detected and reused instead.
+
+# What Lisence is Penguin Play store Liscensed under?
+The Penguin Play Store is lisenced under is - APGL 3.0 public lisence, for information regarding this lisence and the law, please vist dmca.com
